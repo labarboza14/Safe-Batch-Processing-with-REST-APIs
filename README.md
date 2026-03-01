@@ -6,7 +6,7 @@ Este projeto demonstra como executar atualizações em massa (batch processing) 
 
 ---
 
-## 🚀 Problema que este projeto resolve
+## Problema que este projeto resolve
 
 Atualizações em lote parecem simples até que envolvem:
 
@@ -21,7 +21,7 @@ Este template foi construído para tratar esses riscos explicitamente.
 
 ---
 
-## 🧠 O que este projeto demonstra
+## O que este projeto demonstra
 
 - Validação e sanitização de dados de entrada
 - Normalização de payloads inconsistentes
@@ -38,7 +38,7 @@ Mais do que executar um script, este projeto demonstra engenharia defensiva apli
 
 ---
 
-## 📦 Casos de uso reais
+## Casos de uso reais
 
 Este template pode ser adaptado para:
 
@@ -54,7 +54,7 @@ Sempre que você precisar modificar muitos registros com segurança e rastreabil
 
 ---
 
-## 🛠 Estrutura
+## Estrutura
 
 - Leitura de planilha (CSV/Excel)
 - Validação de e-mails
@@ -66,7 +66,7 @@ Sempre que você precisar modificar muitos registros com segurança e rastreabil
 
 ---
 
-## 🔒 Princípios aplicados
+## Princípios aplicados
 
 - PUT é substituição, não atualização parcial
 - Ausência não é equivalente a `null`
@@ -76,7 +76,7 @@ Sempre que você precisar modificar muitos registros com segurança e rastreabil
 
 ---
 
-## 🔄 Possíveis evoluções
+## Possíveis evoluções
 
 Este projeto pode evoluir para:
 
@@ -89,7 +89,7 @@ Este projeto pode evoluir para:
 
 ---
 
-## 🎯 Por que isso é relevante para portfólio?
+## Por que isso é relevante para portfólio?
 
 Porque demonstra:
 
@@ -109,7 +109,7 @@ Nunca exponha tokens ou URLs reais em código público.
 
 ---
 
-## 📚 Requisitos
+## Requisitos
 
 - Python 3.9+
 - requests
